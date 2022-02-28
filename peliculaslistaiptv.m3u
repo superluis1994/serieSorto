@@ -1,14 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/e5Xf4RrQVrxSwV2MG3I5sSjBieX-185x278.jpg" group-title="Scorpion-temp1",uptostream
-https://www57.uptostream.com/stream/6buhfy1ef5/_v_61941_0.mp4
 
-#EXTINF:-1, tvg-logo="sss" group-title="Scorpion-temp1",archive.org
-https://archive.org/serve/ss-60797.-lat.-s-04-e-13/SS-60797.LAT.S04E13.mp4
-
-#EXTINF:-1, tvg-logo="hhh" group-title="Scorpion-temp1",streamtape
-https://streamtape.com/get_video?id=vkbZejVZaDi4V7L&expires=1646126485&ip=F0yOKRWODS9XKxR&token=ojMmTek5W9F9&stream=1
-
-
-#EXTINF:-1, tvg-logo="https://iepp2022.000webhostapp.com/cover/Scorpion.jpg" group-title="Scorpion-temp4",Scorpion Cap.1
+#EXTINF:-1, tvg-logo="https://iepp2022.000webhostapp.com/cover/2137706.jpg" group-title="Scorpion-temp4",Scorpion Cap.1
 https://adblockstreamtape.site/get_video?id=ko6zlv0qX6COjzv&expires=1646140382&ip=F0yOKRWODS9XKxR&token=i4HGlotpWWvf&stream=1
 
