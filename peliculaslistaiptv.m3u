@@ -7,3 +7,6 @@ https://adblockstreamtape.site/get_video?id=ko6zlv0qX6COjzv&expires=1646140382&i
 #EXTINF:-1, tvg-logo="hhh" group-title="Scorpion-temp1",prueba Cap2
 https://adblockstreamtape.site/get_video?id=KG1oBGYvWJC01aJ&expires=1646231271&ip=F0qVKRMSKxSHDN&token=6LW-j6gOrk92&stream=1
 
+#EXTINF:-1, tvg-logo="sss" group-title="Scorpion-temp1",archive.org
+https://archive.org/serve/ss-60797.-lat.-s-04-e-13/SS-60797.LAT.S04E13.mp4
+
